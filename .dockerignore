@@ -1,0 +1,16 @@
+# Exclude Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Exclude virtual environment folder
+venv/
+
+
+# Exclude Jupyter notebooks
+*.ipynb
+
+# Exclude logs and temporary files
+*.log
+*.tmp
+*.swp
