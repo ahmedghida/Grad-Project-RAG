@@ -33,9 +33,11 @@ This project implements a Retrieval-Augmented Generation (RAG) system that allow
     ```
 
 ## Running the Docker Container
-    To run the Docker container, follow these steps:
-``` bash 
-    docker run -p 8501:8501 rag-app
+
+To run the Docker container, follow these steps:
+
+```bash
+docker run -p 8501:8501 rag-app
 ```
 ## Usage
     Upload your PDF file through the provided interface.
